@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Wiz101 Loadout Builder 0.1.1",
-  "pub_date": "2026-10-19T04:59:06.383Z",
+  "version": "0.1.2",
+  "notes": "Wiz101 Loadout Builder 0.1.2",
+  "pub_date": "2026-10-19T05:42:07.289Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFdyOTRmMk5odEZnVThHUEZ1aU4xSDdWL3daUUh2NFlyK0drcHc4b0pESGpDWldxYk9hSW15NmNsekRNTGZVQVhmaGQ0SFpoa2VuT25PaHRNajNPcCtwMnlHbnJzSFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg1OTQ0CWZpbGU6V2l6MTAxIExvYWRvdXQgQnVpbGRlcl8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKL0VxY25zUUVkZ2NmempQcEFUTS9uVWtqTDVJWHVQQkg0Tnc4Z2RnUkYxMmR0SEpYdy8yekx5dGFUNmp4VlZuNEE3T2hJM1dVbEdrSGJ2ek9RZWlqQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/beaniebop/wiz101-releases/main/Wiz101-Loadout-Builder_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRFdyOTRmMk5odFA4dVJLYzF5OEEyNzRRekVJUVRraE0wQ0p6RWNDTnhXekNPTVhsanNlSWYxRVZXSXRudlZscng0VnJvM2t2blh3cjl1clVVYlk4Wm80OE9EQkRPK3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg4NTEzCWZpbGU6V2l6MTAxIExvYWRvdXQgQnVpbGRlcl8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKakptUTRnaHNqd0R6QVVTeisvSVdFYmZkaGhlRVphQkExYmRmYkhCRzQyVjAyTzY1YmNzekpWcysvQ01ObzFoV0hLVjNYYktzdXl4OTE2VnFYZ3V1QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/beaniebop/wiz101-releases/main/Wiz101-Loadout-Builder_0.1.2_x64-setup.exe"
     }
   }
 }
